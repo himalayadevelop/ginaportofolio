@@ -75,7 +75,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenResumeModal })
 
                 <div className="absolute bottom-4 left-4 right-4 p-4 rounded-xl bg-black/60 backdrop-blur-md border border-white/10 text-white">
                   <div className="text-lg font-serif italic text-neutral-100">
-                    GINA PASA
+                    GINA PASA | 051435669
                   </div>
                   <div className="text-xs font-mono text-neutral-300 mt-0.5">
                     {lang === 'id'
