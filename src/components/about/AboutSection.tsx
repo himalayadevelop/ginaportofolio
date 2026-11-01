@@ -79,8 +79,8 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenResumeModal })
                   </div>
                   <div className="text-xs font-mono text-neutral-300 mt-0.5">
                     {lang === 'id'
-                      ? 'Teknologi Informasi • Ilmu Komunikasi (UT)'
-                      : 'Information Technology • Communication Science'}
+                      ? 'Ilmu Komunikasi (UT)'
+                      : 'Communication Science'}
                   </div>
                 </div>
               </div>
